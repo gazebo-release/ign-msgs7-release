@@ -1,0 +1,42 @@
+ignition-msgs5 (5.3.0-1~buster) buster; urgency=medium
+
+  * ignition-msgs5 5.3.0-1 release
+
+ -- Nate Koenig <nate@openrobotics.org>  Wed, 20 May 2020 18:17:22 -0700
+
+ignition-msgs5 (5.2.0-1~buster) buster; urgency=medium
+
+  * ignition-msgs5 5.2.0-1 release
+
+ -- Louise Poubel <louise@openrobotics.org>  Thu, 14 May 2020 15:32:58 -0700
+
+ignition-msgs5 (5.1.0-3~buster) buster; urgency=medium
+
+  * ignition-msgs5 5.1.0-3 release
+
+ -- Jose Luis Rivero <jrivero@osrfoundation.org>  Mon, 30 Mar 2020 19:29:12 +0200
+
+ignition-msgs5 (5.1.0-3~buster) buster; urgency=medium
+
+  * ignition-msgs5 5.1.0-3 release
+
+ -- Jose Luis Rivero <jrivero@osrfoundation.org>  Mon, 30 Mar 2020 19:29:09 +0200
+
+ignition-msgs5 (5.1.0-2~buster) buster; urgency=medium
+
+  * ignition-msgs5 5.1.0-2 release
+
+ -- Jose Luis Rivero <jrivero@osrfoundation.org>  Mon, 30 Mar 2020 16:03:26 +0200
+
+ignition-msgs5 (5.1.0-2~buster) buster; urgency=medium
+
+  * ignition-msgs5 5.1.0-2 release
+
+ -- Jose Luis Rivero <jrivero@osrfoundation.org>  Mon, 30 Mar 2020 16:03:22 +0200
+
+ignition-msgs5 (5.1.0-1~buster) buster; urgency=medium
+
+  * ignition-msgs5 5.1.0-1 release
+
+ -- Steve Peters <scpeters@openrobotics.org>  Fri, 03 Jan 2020 17:04:30 -0800
+

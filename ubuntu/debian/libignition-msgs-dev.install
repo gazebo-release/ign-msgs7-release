@@ -1,0 +1,9 @@
+usr/include/*
+usr/lib/*/*.so
+usr/lib/*/pkgconfig/*.pc
+usr/lib/*/cmake/ignition-msgs*/*
+usr/share/ignition/*
+usr/lib/ruby/ignition/*.rb
+usr/lib/*/ruby/ignition/msgs[0-99]/*
+usr/lib/ruby/ignition/*.rb
+usr/share/ignition/ignition-msgs*/ignition-msgs[0-9].tag.xml
