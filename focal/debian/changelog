@@ -1,3 +1,9 @@
+ignition-msgs6 (6.0.0~pre1-1~focal) focal; urgency=medium
+
+  * ignition-msgs6 6.0.0~pre1-1 release
+
+ -- Louise Poubel <louise@openrobotics.org>  Thu, 10 Sep 2020 13:53:56 -0700
+
 ignition-msgs6 (5.999.999-1~focal) focal; urgency=medium
 
   * Stub to be removed after first entry
