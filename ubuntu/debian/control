@@ -11,7 +11,7 @@ Build-Depends: cmake,
                libprotobuf-dev (>= 2.3.0),
                libtinyxml2-dev,
                libignition-cmake2-dev,
-               libignition-math6-dev,
+               libignition-math6-dev (>= 6.5.0),
                libignition-tools-dev,
                protobuf-compiler,
 Vcs-Browser: https://github.com/ignition-release/ign_msgs5-release
@@ -36,7 +36,7 @@ Depends: libprotobuf-dev (>= 2.3.0),
          protobuf-compiler,
          libtinyxml2-dev,
          libignition-cmake2-dev,
-         libignition-math6-dev,
+         libignition-math6-dev (>= 6.5.0),
          libignition-msgs6 (= ${binary:Version}),
          ${misc:Depends}
 Multi-Arch: same
