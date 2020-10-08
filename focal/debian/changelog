@@ -1,24 +1,6 @@
-ignition-msgs6 (6.0.0-1~focal) focal; urgency=medium
-
-  * ignition-msgs6 6.0.0-1 release
-
- -- Carlos Aguero <caguero@openrobotics.org>  Mon, 28 Sep 2020 23:04:55 +0200
-
-ignition-msgs6 (6.0.0~pre2-1~focal) focal; urgency=medium
-
-  * ignition-msgs6 6.0.0~pre2-1 release
-
- -- Louise Poubel <louise@openrobotics.org>  Mon, 14 Sep 2020 14:16:26 -0700
-
-ignition-msgs6 (6.0.0~pre1-1~focal) focal; urgency=medium
-
-  * ignition-msgs6 6.0.0~pre1-1 release
-
- -- Louise Poubel <louise@openrobotics.org>  Thu, 10 Sep 2020 13:53:56 -0700
-
-ignition-msgs6 (5.999.999-1~focal) focal; urgency=medium
+ignition-msgs7 (6.999.999-1~focal) focal; urgency=medium
 
   * Stub to be removed after first entry
 
- -- Jose Luis Rivero <jrivero@osrfoundation.org>  Thu, 16 Jul 2020 18:50:00 +0200
+ -- Louise Poubel <louise@openrobotics.org>  Wed, 07 Oct 2020 17:35:27 -0700
 

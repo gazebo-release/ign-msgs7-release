@@ -1,4 +1,4 @@
-Source: ignition-msgs6
+Source: ignition-msgs7
 Standards-Version: 3.9.5
 Maintainer: Jose Luis Rivero <jrivero@osrfoundation.org>
 Section: science
@@ -18,7 +18,7 @@ Vcs-Browser: https://github.com/ignition-release/ign_msgs5-release
 Vcs-Git: https://github.com/ignition-release/ign_msgs5-release
 Homepage: http://ignitionrobotics.org/
 
-Package: libignition-msgs6
+Package: libignition-msgs7
 Architecture: any
 Section: libs
 Pre-Depends: ${misc:Pre-Depends}
@@ -28,7 +28,7 @@ Description: Protobuf messages for ignitionics applications - Shared library
  This library provides a set of google protobuf messages that are typically used
  in ignition applications.
 
-Package: libignition-msgs6-dev
+Package: libignition-msgs7-dev
 Architecture: any
 Section: libdevel
 Depends: libprotobuf-dev (>= 2.3.0),
@@ -37,7 +37,7 @@ Depends: libprotobuf-dev (>= 2.3.0),
          libtinyxml2-dev,
          libignition-cmake2-dev,
          libignition-math6-dev (>= 6.5.0),
-         libignition-msgs6 (= ${binary:Version}),
+         libignition-msgs7 (= ${binary:Version}),
          ${misc:Depends}
 Multi-Arch: same
 Description: Protobuf messages for ignitionics applications - Development files
