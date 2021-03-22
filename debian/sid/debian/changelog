@@ -1,3 +1,9 @@
+ignition-msgs7 (7.0.0~pre1-1~sid) sid; urgency=medium
+
+  * ignition-msgs7 7.0.0~pre1-1 release
+
+ -- Louise Poubel <louise@openrobotics.org>  Mon, 22 Mar 2021 08:21:59 -0700
+
 ignition-msgs7 (6.999.999-1~sid) sid; urgency=medium
 
   * Stub to be removed after first entry
