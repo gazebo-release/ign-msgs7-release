@@ -1,3 +1,9 @@
+ignition-msgs7 (7.1.0-1~sid) sid; urgency=medium
+
+  * ignition-msgs7 7.1.0-1 release
+
+ -- Louise Poubel <louise@openrobotics.org>  Fri, 30 Apr 2021 13:47:49 -0700
+
 ignition-msgs7 (7.0.0-1~sid) sid; urgency=medium
 
   * ignition-msgs7 7.0.0-1 release
