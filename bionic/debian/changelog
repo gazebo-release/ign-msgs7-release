@@ -1,3 +1,9 @@
+ignition-msgs7 (7.3.0-1~bionic) bionic; urgency=medium
+
+  * ignition-msgs7 7.3.0-1 release
+
+ -- Steve Peters <scpeters@openrobotics.org>  Wed, 16 Mar 2022 17:43:54 -0700
+
 ignition-msgs7 (7.2.0-1~bionic) bionic; urgency=medium
 
   * ignition-msgs7 7.2.0-1 release
